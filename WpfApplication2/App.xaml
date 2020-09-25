@@ -1,0 +1,9 @@
+﻿<Application x:Class="WpfApplication2.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WpfApplication2"
+             xmlns:System="clr-namespace:System;assembly=mscorlib"
+             StartupUri="pack://application:,,,/WPFView;component/View/WPFMainWindow.xaml">
+  <Application.Resources>
+  </Application.Resources>
+</Application>

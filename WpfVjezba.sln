@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfVjezba", "WpfApplication2\WpfVjezba.csproj", "{1DF4C389-1736-4530-B0C9-1FFD09780A86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsersModel", "UsersModel\UsersModel.csproj", "{1F81F9B8-544F-4172-AFFC-E62AB88ED109}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFView", "WPFView\WPFView.csproj", "{21319515-0ED1-494E-98DC-8328A5942037}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DF4C389-1736-4530-B0C9-1FFD09780A86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DF4C389-1736-4530-B0C9-1FFD09780A86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DF4C389-1736-4530-B0C9-1FFD09780A86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DF4C389-1736-4530-B0C9-1FFD09780A86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F81F9B8-544F-4172-AFFC-E62AB88ED109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F81F9B8-544F-4172-AFFC-E62AB88ED109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F81F9B8-544F-4172-AFFC-E62AB88ED109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F81F9B8-544F-4172-AFFC-E62AB88ED109}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21319515-0ED1-494E-98DC-8328A5942037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21319515-0ED1-494E-98DC-8328A5942037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21319515-0ED1-494E-98DC-8328A5942037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21319515-0ED1-494E-98DC-8328A5942037}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
